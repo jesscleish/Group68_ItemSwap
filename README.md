@@ -7,7 +7,7 @@ The project made in SOFE 2800U by this group was an item swapping/bartering webs
 ---
 ## Database Config
 
-Create a file called `php.ini` with the following:
+Create a file called `php.ini` akin to the following:
 
 ```ini
 [db_config]
