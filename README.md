@@ -24,6 +24,17 @@ The stakeholders in this project are as follows:
 - The Software development team (Daniel and Jessica).
 - The end users who will be using the website to sell, barter, and swap items
 
+### Product Assumptions and Constraints
+Assumptions:
+- The user has a working internet connection, and has the relevant website files on their machine (no web hosting integrated).
+- The relevant databases required (see dbImport file for sample setup) are on either the local machine, or the remote database has been confirgured in [Database Configuration](#database-configuration).
+- The user has a browser capable of supporting HTML, CSS, JavaScript, and PHP
+
+Constraints:
+- Users must create an account on the website to access anything further than the home page.
+- Several users cannot have the same username
+- 
+
 ---
 ## How to Run the Web Application
 
@@ -44,7 +55,7 @@ database = "database name"
 ---
 ## Table of Contents
 ### Overview
-- [Project Description](tobelinkedusingmarkdownanchor)
+- [Project Description](#project-description-vision-and-scope)
 
 ### Main Folder
 - [ ] Traceability matrix
@@ -61,6 +72,7 @@ database = "database name"
 - [ ] Class and Component Models
 - [ ] Behavioural Models
 - [ ] Review Report of the design elements (apparently not needed)
+- [ ] UI Sketches
 
 ### Requirements
 - [ ] Requirements lists
