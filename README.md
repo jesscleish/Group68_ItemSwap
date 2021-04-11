@@ -73,18 +73,20 @@ database = "database name"
 - [ ] Behavioural Models
 - [ ] Review Report of the design elements (apparently not needed)
 - [ ] UI Sketches
+- [ ] Prototypes (Login page)
 
 ### Requirements
-- [ ] Requirements lists
-- [ ] Review Report of the requirements (apparently not needed)
+- [x] Requirements list
+- [ ] Requirements Diagram
+- [ ] Requirements Report
 
 ### Use Cases
 - [ ] Diagrams
 - [ ] Descriptions
+- [ ] Use Cases Report
 
 ### Test Cases (where applicable)
 - [ ] Unit/Integration Tests
 - [ ] Acceptance Tests
 
-### Prototypes
-- [ ] Login page
+
