@@ -1,6 +1,6 @@
-# SOFE 2800 Final Project
-# Group 30
-# Daniel Gohara Kamel, Misha Larionov, Jessica Leishman
+# SOFE 2720U Item Swap Website
+# Group 68
+# Daniel Gohara Kamel, Jessica Leishman
 
 ## Database Config
 
