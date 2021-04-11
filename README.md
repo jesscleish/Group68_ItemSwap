@@ -21,3 +21,23 @@ database = "database name"
 `dbConnection.php` reads the ini file and connects to the database with those credentials
 
 ---
+## Requirements
+reads the ini file and connects to the database with those credentials
+
+---
+## Requirements Modeling
+
+
+---
+## Architectural Model
+
+
+---
+## Component Level Design
+
+
+---
+## Testing (Where Applicable)
+
+
+---
