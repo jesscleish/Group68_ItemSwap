@@ -5,7 +5,7 @@ To do:
 - [ ] Add Diagrams to:
 - [x] Requirements
 - [x] Use Cases
-- [ ] Design
+- [x] Design
 
 To Create:
 - [ ] Architectural model/diagram + explanation
@@ -78,18 +78,18 @@ database = "database name"
 - [x] Behavioural Models
 - [x] UI Sketches prototype
 - [x] Login Page Prototype
-- [ ] Design Report
+- [ ] Design Report - readme
 
 ### Requirements
 - [x] Requirements list
 - [x] Requirements Diagram
 - [x] Jamboard/user stories
-- [ ] Requirements Report
+- [] Requirements Report -readme
 
 ### Use Cases
 - [x] Diagrams
-- [ ] Descriptions
-- [ ] Use Cases Report
+- [x] Descriptions
+- [ ] Use Cases Report -readme
 
 ### Test Cases (where applicable)
 - [ ] Unit/Integration Tests
