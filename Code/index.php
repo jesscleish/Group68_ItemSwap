@@ -29,26 +29,30 @@
     
             // Print out each listing
             if ($qresult){
-                while($row = mysqli_fetch_array($qresult, MYSQLI_ASSOC)){
-                    // Stores details of table array in variables for output.
-                    $listingid = $row['id'];
-                    $title = $row['title'];
-                    $image = $row['image'];
-                    $userid = $row['userid'];
+                if (mysqli_num_rows($qresult) == 0){
+                    echo '<h1>No Listings Found, Be the first to make one.</h1>';
+                }else {
+                    while ($row = mysqli_fetch_array($qresult, MYSQLI_ASSOC)) {
+                        // Stores details of table array in variables for output.
+                        $listingid = $row['id'];
+                        $title = $row['title'];
+                        $image = $row['image'];
+                        $userid = $row['userid'];
 
-                    // Fetches details about the user associated with the listing.
-                    $userquery = "SELECT * FROM user WHERE id = '$userid';";
-                    $result = mysqli_query($connection, $userquery);
-                    $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
-                    $username = $row['username'];
-                    
-                    // Prints each listing in it's own div for flexboxes
-                    echo '<div class ="listingTile">';
-                    echo '<img class="listingImage" onclick="window.location.href=\'viewListing.php?whichListing='.$listingid.'\'" src="'. $image .'" alt="listing">';
-                    echo '<div class="listingText">';
-                    echo '<h3 class="listingHeader"><a class="gridLink" href = "viewListing.php?whichListing='.$listingid.'">'.$title.'</a></h3>';
-                    echo '<h4 class="listingHeader">Posted By: <a href = "userProfile.php?user=' . $userid . '">'.$username.'</a></h4>';
-                    echo '</div></div>';
+                        // Fetches details about the user associated with the listing.
+                        $userquery = "SELECT * FROM user WHERE id = '$userid';";
+                        $result = mysqli_query($connection, $userquery);
+                        $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
+                        $username = $row['username'];
+
+                        // Prints each listing in it's own div for flexboxes
+                        echo '<div class ="listingTile">';
+                        echo '<img class="listingImage" onclick="window.location.href=\'viewListing.php?whichListing=' . $listingid . '\'" src="' . $image . '" alt="listing">';
+                        echo '<div class="listingText">';
+                        echo '<h3 class="listingHeader"><a class="gridLink" href = "viewListing.php?whichListing=' . $listingid . '">' . $title . '</a></h3>';
+                        echo '<h4 class="listingHeader">Posted By: <a href = "userProfile.php?user=' . $userid . '">' . $username . '</a></h4>';
+                        echo '</div></div>';
+                    }
                 }
             }
             else{
