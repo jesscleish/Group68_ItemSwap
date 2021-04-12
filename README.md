@@ -61,10 +61,10 @@ database = "database name"
 - [Project Description](#project-description-vision-and-scope)
 
 ### Main Folder
-- [ ] Traceability matrix
+- [ ] Traceability matrix -> apparently no longer needed
 - [x] Project Description README
 - [x] Table of Contents
-- [ ] Team Assessment report
+- [ ] Team Assessment report - > todo on google docs
 
 ### Code
 - [Main Code Folder](linkhere)
@@ -72,15 +72,18 @@ database = "database name"
 - [Style](linkhere)
 
 ### Design
-- [ ] Class and Component Models
-- [ ] Behavioural Models
-- [ ] Review Report of the design elements (apparently not needed)
-- [ ] UI Sketches
-- [ ] Prototypes (Login page)
+- [x] Class Diagram
+- [x] Navigation Component Diagram
+- [ ] Login Component Diagranm
+- [x] Behavioural Models
+- [x] UI Sketches prototype
+- [ ] Login Page Prototype
+- [ ] Design Report
 
 ### Requirements
 - [x] Requirements list
 - [x] Requirements Diagram
+- [x] Jamboard/user stories
 - [ ] Requirements Report
 
 ### Use Cases

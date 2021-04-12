@@ -3,11 +3,16 @@
 # Requirements 
 ## Overview
 This folder contains the stakeholders needs and requirements identified for this web application during the development process.
+There are also two jamboard screenshots, one from [requirements elicitatation with stakeholders](linkhere) which was then developed into the formal list of requirements. The second screenshot is the user stories that were developed from these requirements and used to further shape the formal requirements.
 
+### Contents:
 The requirements table can be found in the [List of Requirements pdf](linkhere).
+The requirements elicitation picture can be found [here](linkhere).
+The user stories picture can be found [here](linkhere).
 
 The [requirements diagrams folder](linkhere) contains four images, three are of the system requirements model divided into sections as it is quite large, and a full overview on one page The diagram is divided into the "top", "bottom left", and "bottom right" sections.
 - [Full overview](linkhere)
 - [Top of Diagram](linkhere)
 - [Bottom Left of Diagram](linkhere)
 - [Bottom Right of Diagram](linkhere)
+
