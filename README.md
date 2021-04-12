@@ -37,9 +37,9 @@ Create a file called `php.ini` akin to the following:
 
 ```ini
 [db_config]
-ip = "server ip"
-user = "username"
-password = "password"
+ip = "localhost"
+user = "root"
+password = ""
 database = "database name"
 
 ```
