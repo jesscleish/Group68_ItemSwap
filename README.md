@@ -4,7 +4,7 @@
 To do:
 - [ ] Add Diagrams to:
 - [x] Requirements
-- [ ] Use Cases
+- [x] Use Cases
 - [ ] Design
 
 To Create:
@@ -36,10 +36,10 @@ Assumptions:
 Constraints:
 - Users must create an account on the website to access anything further than the home page.
 - Several users cannot have the same username
-- 
 
 ---
 ## How to Run the Web Application
+
 
 ### Database Configuration
 Create a file called `php.ini` akin to the following:
@@ -74,10 +74,10 @@ database = "database name"
 ### Design
 - [x] Class Diagram
 - [x] Navigation Component Diagram
-- [ ] Login Component Diagranm
+- [x] Login Component Diagranm
 - [x] Behavioural Models
 - [x] UI Sketches prototype
-- [ ] Login Page Prototype
+- [x] Login Page Prototype
 - [ ] Design Report
 
 ### Requirements
@@ -87,7 +87,7 @@ database = "database name"
 - [ ] Requirements Report
 
 ### Use Cases
-- [ ] Diagrams
+- [x] Diagrams
 - [ ] Descriptions
 - [ ] Use Cases Report
 

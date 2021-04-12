@@ -28,7 +28,7 @@ There are several sequence diagrams included within the [Sequence Diagrams folde
 - [Create a listing](linkhere)
 - [View a listing and make an offer](linkhere)
 
-The [Prototypes folder](linkhere) contains a working model of the login/signup page used for the website, as well as two User Interface wireframe designs that were created to convey the possible appearance of the website. These materials were assessed by all stakeholders to ensure they met their needs and requirements as outlined in the [Requirements folder](linkhere).
+The [Prototypes folder](linkhere) contains a working model of the login/signup page used for the website, as well as two User Interface wireframe designs that were created to convey the possible appearance of the website. These materials were assessed by all stakeholders to ensure they met their needs and requirements as outlined in the [Requirements folder].(linkhere).
 
 [Prototypes](linkhere)
 - [UI Wireframe Designs](linkere)
