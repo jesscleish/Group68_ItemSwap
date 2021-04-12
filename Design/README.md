@@ -5,12 +5,12 @@
 This folder contains a collection of conceptual and behavioural models that illustrate the classes and behaviours of the program. There are several diagrams, and three prototypes (two are together in the wireframes pdf) included.
 
 ### Contents:
-The class diagram shows the different classes within the project, and shows how they interact. It can be found [here](linkhere)
+The class diagram shows the different classes within the project, and shows how they interact. It can be found [here](linkhere).
 
-The class diagram, modified slightly, also represents the one of two component diagrams for this project, the [Main/Navigation component](linkhere), which is responsible for controlling a user's interactions and navigation through the website.The [Login component](linkhere) allows the user to fully access and utilize the navigation component. Both component diagrams can be found below:
+The class diagram, modified slightly, also represents the one of two component diagrams for this project.  The component diagrams can be found [here](linkhere)
 
-- [Main/Navigation component](linkhere)
-- [Login component](linkhere)
+- [Main/Navigation component](linkhere) - responsible for controlling a user's interactions and navigation through the website.
+- [Login component](linkhere) - allows the user to fully access and utilize the navigation component.
 
 The overall state diagram of the website illustrates the possible flows a user may take through navigating the website. It serves as a map that shows how most pages connect to eachother, and can be found [here](linkhere).
 
