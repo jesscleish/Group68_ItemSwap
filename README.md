@@ -54,7 +54,7 @@ Then, one can either import [these sample listings and users](linkhere) into the
 - [Project Description](#project-description-vision-and-scope)
 
 ### Main Folder
-- [Project Overview Readme](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/README.md)
+- [Project Overview Readme (this document)](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/README.md)
 - [Team Assessment Report](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Group%2068%20Team%20Assessment%20Report.pdf)
 
 ### Code
