@@ -3,7 +3,7 @@
 
 To do:
 - [ ] Add Diagrams to:
-- [ ] Requirements
+- [x] Requirements
 - [ ] Use Cases
 - [ ] Design
 
@@ -19,10 +19,13 @@ The web application uses a mySQL database, HTML, CSS, JavaScript and PHP to prov
 
 
 ### Stakeholders
-The stakeholders in this project are as follows:
-- The customer/business owner of the item swapping website.
-- The Software development team (Daniel and Jessica).
-- The end users who will be using the website to sell, barter, and swap items
+The four stakeholders identified in this project are as follows:
+- Facilitator (Development Team Leader)
+- Customer (Website Owner)
+- Development team
+- End users who will be using the website to sell, barter, and swap items.
+
+An outline of each of these roles and their responsibilites can be found in the [Stakeholder Roles pdf](linkhere).
 
 ### Product Assumptions and Constraints
 Assumptions:
@@ -64,9 +67,9 @@ database = "database name"
 - [ ] Team Assessment report
 
 ### Code
-- [Main Code Folder](https://github.com/jessica-leishman/Group68-ItemSwap/tree/main/Code)
-- [Components](https://github.com/jessica-leishman/Group68-ItemSwap/tree/main/Code/components)
-- [Style](https://github.com/jessica-leishman/Group68-ItemSwap/tree/main/Code/style)
+- [Main Code Folder](linkhere)
+- [Components](linkhere)
+- [Style](linkhere)
 
 ### Design
 - [ ] Class and Component Models
@@ -77,7 +80,7 @@ database = "database name"
 
 ### Requirements
 - [x] Requirements list
-- [ ] Requirements Diagram
+- [x] Requirements Diagram
 - [ ] Requirements Report
 
 ### Use Cases

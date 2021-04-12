@@ -6,12 +6,8 @@ This folder contains the stakeholders needs and requirements identified for this
 
 The requirements table can be found in the [List of Requirements pdf](linkhere).
 
-The [requirements diagrams folder](linkhere) contains three images of the system requirements model as well as the visual paradigm files, as it is too large to be viewed completely on a single screen. The diagram is divided into the "top", "bottom left", and "bottom right" sections.
-
-Four different stakeholders were identified in this project. These roles are:
-- Facilitator (Development Team Leader)
-- Customer (Website Owner)
-- Developers
-- End user
-
-An outline of each of these roles and their responsibilites can be found in the [Stakeholder Roles pdf](linkhere).
+The [requirements diagrams folder](linkhere) contains four images, three are of the system requirements model divided into sections as it is quite large, and a full overview on one page The diagram is divided into the "top", "bottom left", and "bottom right" sections.
+- [Full overview](linkhere)
+- [Top of Diagram](linkhere)
+- [Bottom Left of Diagram](linkhere)
+- [Bottom Right of Diagram](linkhere)
