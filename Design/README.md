@@ -4,7 +4,39 @@
 ## Overview
 This folder contains a collection of conceptual and behavioural models that illustrate the classes and behaviours of the program. There are several diagrams, and three prototypes (two are together in the wireframes pdf) included.
 
-### Contents:
+There is a folder outlining the Software Architectural model(s) utilized for the development project.  This folder can be accessed [here](linkhere).  A more in depth analysis of the model(s) utilized can be found in the [folder's README file](linkhere).
+
+## Quick Links
+- [Class Diagram](linkhere)
+- [Architectural Design Folder](linkhere)
+- [Architectural Design Readme](linkhere)
+
+[Component Diagrams](linkhere)
+- [Login Component](linkhere)
+- [Main/Navigation Component](linkhere)
+
+[State Diagram](linkhere)
+
+[System Level Sequence Diagrams](linkhere)
+- [View sent offers](linkhere)
+- [View received offers and delete](linkhere)
+- [Create a listing](linkhere)
+- [View a listing and make an offer](linkhere)
+
+[Class level sequence diagrams](linkhere)
+- [View sent offers](linkhere)
+- [View received offers and delete](linkhere)
+- [Create a listing](linkhere)
+- [View a listing and make an offer](linkhere)
+
+[Protoypes](linkhere)
+- [Login protoype](linkhere)
+- [User Interface wireframe prototypes](link)
+---
+
+### Contents Description:
+This project utilizes a hybrid Data Centred architectural model that incorporates elements of layered architacture. The architectural models can be accessed [here](linkhere), and the readme within this folder offers further description and detail.
+
 The class diagram shows the different classes within the project, and shows how they interact. It can be found [here](linkhere).
 
 The class diagram, modified slightly, also represents the one of two component diagrams for this project.  The component diagrams can be found [here](linkhere)

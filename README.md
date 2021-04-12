@@ -8,7 +8,7 @@ To do:
 - [x] Design
 
 To Create:
-- [ ] Architectural model/diagram + explanation
+- [x] Architectural model/diagram + explanation
 
 ## Project Description (Vision and Scope)
 The project made in SOFE 2800U by this group was an item swapping/bartering web application. This readme outlines the prelimary and process actions taken by the team during the development of this website.  The users of this web application can create listings for items they wish to sell/trade away, and view listings of items avaiable for swap created by other users.
@@ -55,13 +55,14 @@ database = "database name"
 
 `dbConnection.php` reads the ini file and connects to the database with those credentials
 
+Then, one can either i8mport [these sample listings and users](linkhere) into the database, or create their own to test functionality.
+
 ---
 ## Table of Contents
 ### Overview
-- [Project Description](#project-description-vision-and-scope)
+- [Project Description](linkhere)
 
 ### Main Folder
-- [ ] Traceability matrix -> apparently no longer needed
 - [x] Project Description README
 - [x] Table of Contents
 - [ ] Team Assessment report - > todo on google docs
@@ -73,6 +74,7 @@ database = "database name"
 
 ### Design
 - [x] Class Diagram
+- [x] Architectural Design
 - [x] Navigation Component Diagram
 - [x] Login Component Diagranm
 - [x] Behavioural Models
@@ -90,9 +92,3 @@ database = "database name"
 - [x] Diagrams
 - [x] Descriptions
 - [ ] Use Cases Report -readme
-
-### Test Cases (where applicable)
-- [ ] Unit/Integration Tests
-- [ ] Acceptance Tests
-
-
