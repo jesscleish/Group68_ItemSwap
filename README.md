@@ -8,7 +8,7 @@ The project made in SOFE 2800U by this group was an item swapping/bartering web 
 
 Users are able to create an account to make a profile and create listings for an item.  They are able to browse and search other listings and make offers on those listings. Offers can include items and money.  The listing must have picture uploaded by the user, requested offers (items/money or both), and a description of the item.  The listing page will also includes a link to the posting user’s profile.
 
-The web application uses a mySQL database, HTML, CSS, JavaScript and PHP to provide a visually-focused and easy user experience.  The customer accesses phpMyAdmin to view a comprehensive overview of the website's users, 
+The web application uses a mySQL database, HTML, CSS, JavaScript and PHP to provide a visually-focused and easy user experience.  The customer accesses phpMyAdmin to view a comprehensive overview of the website's users, listings, and offers.
 
 
 ### Stakeholders
