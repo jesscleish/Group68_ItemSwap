@@ -1,8 +1,5 @@
 # SOFE 2720U Item Swap Website
 # Group 68: Daniel Gohara Kamel, Jessica Leishman
-LINKS NEEDED:
-- [ ] dbImport
-
 ## Project Description (Vision and Scope)
 The project made in SOFE 2800U by this group was an item swapping/bartering web application. This readme outlines the prelimary and process actions taken by the team during the development of this website.  The users of this web application can create listings for items they wish to sell/trade away, and view listings of items avaiable for swap created by other users.
 
@@ -21,7 +18,7 @@ The four stakeholders identified in this project are as follows:
 ### Product Assumptions and Constraints
 Assumptions:
 - The user has a working internet connection, and has the relevant website files on their machine (no web hosting integrated).
-- The relevant databases required (see [dbImport file](linkhere) for sample setup) are on either the local machine, or the remote database has been confirgured in [Database Configuration](#database-configuration).
+- The relevant databases required (see [database sample listings](linkhere) for quick setup) are on either the local machine, or the remote database has been confirgured in [Database Configuration](#database-configuration).
 - The user has a browser capable of supporting HTML, CSS, JavaScript, and PHP
 
 Constraints:
@@ -46,7 +43,7 @@ database = "database name"
 
 `dbConnection.php` reads the ini file and connects to the database with those credentials
 
-Then, one can either import [these sample listings and users](linkhere) into the database, or create their own to test functionality. <-TO DO
+Then, one can either import [these sample listings and users](linkhere) into the database, or create their own to test functionality.
 
 ---
 ## Table of Contents
