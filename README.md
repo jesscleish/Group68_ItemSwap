@@ -30,7 +30,8 @@ Constraints:
 
 
 ### Database Configuration
-You MUST edit `php.ini` to correspond with your own personal database as shown below:
+You must first create a new, empty database on your local machine. This is the "databaseName".
+You MUST then edit `php.ini` to correspond with this personal database as shown below:
 
 ```ini
 [db_config]
@@ -43,9 +44,9 @@ database = "databaseName"
 
 `dbConnection.php` reads the ini file and connects to the database with those credentials
 
-Then, one can either import [these sample listings and users](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/databaseSampleListings.sql)) into the database through phpMyAdmin (or similar software), or create their own to test functionality.
+Then, you can either import [these sample listings and users](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/databaseSampleListings.sql) into the new, empty database databaseName through phpMyAdmin (or similar software), or create their own to test functionality.
 
-The php.ini sample file is included in the [Code folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Code), but can be directly downloaded [here](linkhere). Ensure this Main Code folder is stored on your webserver. Then, the site should be good to go!
+The php.ini sample file is included in the [Code folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Code), but can be directly downloaded [here](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Code/php.ini). Ensure this Main Code folder is stored on your webserver. Then, the site should be good to go!
 
 ---
 ## Table of Contents
