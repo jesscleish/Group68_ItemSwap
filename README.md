@@ -18,7 +18,7 @@ The four stakeholders identified in this project are as follows:
 ### Product Assumptions and Constraints
 Assumptions:
 - The user has a working internet connection, and has the relevant website files on their machine (no web hosting integrated).
-- The relevant databases required (see [database sample listings](linkhere) for quick setup) are on either the local machine, or the remote database has been confirgured in [Database Configuration](#database-configuration).
+- The relevant databases required (use [database sample listings](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/databaseSampleListings.sql) for quick setup, see [Database Configuration](#database-configuration) for help) are on either the local machine, or a remote database. Regardless, this must be set up in [Database Configuration](#database-configuration).
 - The user has a browser capable of supporting HTML, CSS, JavaScript, and PHP
 
 Constraints:
@@ -30,20 +30,22 @@ Constraints:
 
 
 ### Database Configuration
-Create a file called `php.ini` akin to the following:
+You MUST edit `php.ini` to correspond with your own personal database as shown below:
 
 ```ini
 [db_config]
 ip = "localhost"
 user = "root"
 password = ""
-database = "database name"
+database = "databaseName"
 
 ```
 
 `dbConnection.php` reads the ini file and connects to the database with those credentials
 
-Then, one can either import [these sample listings and users](linkhere) into the database, or create their own to test functionality.
+Then, one can either import [these sample listings and users](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/databaseSampleListings.sql)) into the database through phpMyAdmin (or similar software), or create their own to test functionality.
+
+The php.ini sample file is included in the [Code folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Code), but can be directly downloaded [here](linkhere). Ensure this Main Code folder is stored on your webserver. Then, the site should be good to go!
 
 ---
 ## Table of Contents
