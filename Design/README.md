@@ -4,7 +4,7 @@
 ## Overview
 This folder contains a collection of conceptual and behavioural models that illustrate the classes and behaviours of the program. There are several diagrams, and three prototypes (two are together in the wireframes pdf) included.
 
-There is a folder outlining the Software Architectural model(s) utilized for the development project.  This folder can be accessed [here](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Design/Architectural%20Design).  A more in depth analysis of the model(s) utilized can be found in the [folder's README file](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Architectural%20Design/README.md).
+There is a folder outlining the Software Architectural model utilized for the development project.  This folder can be accessed [here](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Design/Architectural%20Design).  A more in depth analysis of the model utilized can be found in the [folder's README file](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Architectural%20Design/README.md).
 
 ## Quick Links
 - [Class Diagram](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Group%2068%20Class%20Diagram.pdf)

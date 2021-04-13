@@ -1,5 +1,6 @@
 # SOFE 2720U Item Swap Website
 # Group 68: Daniel Gohara Kamel, Jessica Leishman
+IMPORTANT: Please note, to view any pdfs you must download it.
 ## Project Description (Vision and Scope)
 The project made in SOFE 2800U by this group was an item swapping/bartering web application. This readme outlines the prelimary and process actions taken by the team during the development of this website.  The users of this web application can create listings for items they wish to sell/trade away, and view listings of items avaiable for swap created by other users.
 
