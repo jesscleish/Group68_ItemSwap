@@ -63,7 +63,7 @@ There are several sequence diagrams included within the [Sequence Diagrams folde
 - [Create a listing](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Sequence%20Diagrams/Class%20Level/Group%2068%20Create%20Listing%20-%20CL.pdf)
 - [View a listing and make an offer](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Sequence%20Diagrams/Class%20Level/Group%2068%20View%20Listing_Make%20Offer%20-%20CL.pdf)
 
-The [Prototypes folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Design/Prototypes) contains a working model of the login/signup page used for the website, as well as two User Interface wireframe designs that were created to convey the possible appearance of the website. These materials were assessed by all stakeholders to ensure they met their needs and requirements as outlined in the [Requirements folder].(linkhere).
+The [Prototypes folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Design/Prototypes) contains a working model of the login/signup page used for the website, as well as two User Interface wireframe designs that were created to convey the possible appearance of the website. These materials were assessed by all stakeholders to ensure they met their needs and requirements as outlined in the [Requirements folder](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Requirements).
 
 [Prototypes](https://github.com/SOFE2720/Group68_ItemSwap/tree/main/Design/Prototypes)
 - [UI Wireframe Designs](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Prototypes/Group%2068%20UI%20Wireframe%20Designs.pdf)

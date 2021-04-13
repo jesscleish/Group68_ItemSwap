@@ -9,4 +9,3 @@ The database for the Item Swap website with tables is quite clearly the reposito
 The diagram for this project can be accessed below:
 
 [Architectural Design Diagram](https://github.com/SOFE2720/Group68_ItemSwap/blob/main/Design/Architectural%20Design/Group%2068%20Data-Centered_Layered%20Architecture%20Diagram.pdf)
-
